@@ -17,13 +17,13 @@ function App() {
             <h1>Yungest Logical Apps</h1>
             <ul className='unorder'>
               <li>
-                <Link className="links" to="/Login.js" target="_blank">Log in</Link>
+                <Link className="links" to="/Login.js">Log in</Link>
               </li>
               <li>
-                <Link className="links" to="/Application.js" target="_blank">Coordinate Converter</Link>
+                <Link className="links" to="/Application.js">Coordinate Converter</Link>
               </li>
               <li>
-                <Link className="links" to="/TodoList.js" target="_blank">To-do List</Link>
+                <Link className="links" to="/TodoList.js">To-do List</Link>
               </li>
             </ul>
           </nav>
