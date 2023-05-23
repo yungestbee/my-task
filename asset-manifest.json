@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-task/static/css/main.0bc441da.css",
-    "main.js": "/my-task/static/js/main.5f9f3e42.js",
+    "main.js": "/my-task/static/js/main.d81b8adc.js",
     "static/media/cat-colorful-wallpaper-1920x1280_38.jpg": "/my-task/static/media/cat-colorful-wallpaper-1920x1280_38.26de33a50da6a8b249b4.jpg",
     "index.html": "/my-task/index.html",
     "main.0bc441da.css.map": "/my-task/static/css/main.0bc441da.css.map",
-    "main.5f9f3e42.js.map": "/my-task/static/js/main.5f9f3e42.js.map"
+    "main.d81b8adc.js.map": "/my-task/static/js/main.d81b8adc.js.map"
   },
   "entrypoints": [
     "static/css/main.0bc441da.css",
-    "static/js/main.5f9f3e42.js"
+    "static/js/main.d81b8adc.js"
   ]
 }
